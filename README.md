@@ -3,10 +3,10 @@
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-kafkajs.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-kafkajs
-[download-image]: https://img.shields.io/npm/dm/egg-kafkajs.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-kafkajs
+[npm-image]: https://img.shields.io/npm/v/egg-kafkajs2.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/egg-kafkajs2
+[download-image]: https://img.shields.io/npm/dm/egg-kafkajs2.svg?style=flat-square
+[download-url]: https://npmjs.org/package/egg-kafkajs2
 
 <!--
 Description here.
@@ -31,7 +31,7 @@ $ yarn add egg-kafkajs2
 
 ```js
 // {app_root}/config/plugin.js
-exports.kafkajs = {
+exports.kafkajs2 = {
   enable: true,
   package: 'egg-kafkajs2',
 };
