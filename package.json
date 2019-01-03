@@ -1,6 +1,6 @@
 {
   "name": "egg-kafkajs2",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "kafka egg plugin support multi client",
   "eggPlugin": {
     "name": "kafkajs2"
@@ -43,6 +43,7 @@
     "autod": "autod"
   },
   "files": [
+    "app",
     "config",
     "app.js",
     "lib"
@@ -52,12 +53,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-kafkajs2.git"
+    "url": "git+https://github.com/yhj2009/egg-kafkajs2"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-kafkajs2#readme",
+  "homepage": "https://github.com/yhj2009/egg-kafkajs2#readme",
   "author": "flandreYi",
   "license": "MIT"
 }
